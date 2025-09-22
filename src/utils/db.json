@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alicej@example.com",
+      "phone": "9876543210",
+      "website": "alicejohnson.com"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "username": "bobsmith",
+      "email": "bobsmith@example.com",
+      "phone": "9123456780",
+      "website": "bobsmith.dev"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Davis updated",
+      "username": "cdavis",
+      "email": "cdavis@example.org",
+      "phone": "9988770000",
+      "website": "charlied.me"
+    },
+    {
+      "id": "4",
+      "name": "Diana Prince",
+      "username": "diana_p",
+      "email": "diana@example.net",
+      "phone": "9871234567",
+      "website": "dianaprince.org"
+    },
+    {
+      "id": "5",
+      "name": "Ethan Wright",
+      "username": "ethanw",
+      "email": "ethanwright@example.com",
+      "phone": "9012345678",
+      "website": "ethanw.io"
+    },
+    {
+      "id": "6",
+      "name": "Fiona Black",
+      "username": "fblack",
+      "email": "fiona@example.org",
+      "phone": "9786543210",
+      "website": "fionablack.com"
+    },
+    {
+      "id": "7",
+      "name": "George Hill",
+      "username": "georgeh",
+      "email": "georgehill@example.net",
+      "phone": "9345678901",
+      "website": "georgehill.dev"
+    },
+    {
+      "id": "8",
+      "name": "Hannah Lee",
+      "username": "hlee",
+      "email": "hannahlee@example.com",
+      "phone": "9456781230",
+      "website": "hannahlee.me"
+    },
+    {
+      "id": "9",
+      "name": "Ian Moore",
+      "username": "ianmoore",
+      "email": "ian@example.com",
+      "phone": "9567890123",
+      "website": "ianmoore.org"
+    },
+    {
+      "id": "10",
+      "name": "Julia Adams",
+      "username": "jadams",
+      "email": "julia@example.org",
+      "phone": "9678901234",
+      "website": "juliaadams.dev"
+    }
+  ]
+}
